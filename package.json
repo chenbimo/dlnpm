@@ -8,7 +8,9 @@
     },
     "type": "module",
     "homepage": "https://chensuiyi.me",
-    "scripts": {},
+    "scripts": {
+         "r": "lerna publish"
+    },
     "engines": {},
     "keywords": [
         "npm",
