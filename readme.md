@@ -1,5 +1,7 @@
 # dlnpm - （download npm）- 下载 npm 包
 
+作者：[陈随易 https://chensuiyi.me](https://chensuiyi.me)
+
 ## 用途
 
 下载对应的 `npm` 资源到当前目录的 `npm-package` 目录下，而不是通过 `npm install` 安装的方式下载到 `node_modules` 目录下。
@@ -40,26 +42,6 @@ pnpm add -g @yicode/dlnpm
 
 1. 随易科技官方 `npm` 资源包（使用选择包名方式，简单方便）
 2. 其他任意 `npm` 资源包（使用输入包名的方式，下载任意资源）
-
-## 作者简介
-
-| 属性     | 值                                                    |
-| -------- | ----------------------------------------------------- |
-| 姓名     | 陈随易                                                |
-| 性别     | 男                                                    |
-| 出生年月 | 1993 年 10 月                                         |
-| 职业     | 基层小码农                                            |
-| 就业时间 | 2015 年 9 月                                          |
-| 性格     | 喜欢安静，喜欢分享，喜欢钻研                          |
-| 身份     | 前端吹水专家，高级劝退师                              |
-| 爱好     | 敲代码，写小说，看电影，算命                          |
-| 微信     | chensuiyime                                           |
-| 扣扣     | 24323626                                              |
-| 邮箱     | bimostyle@qq.com                                      |
-| 知乎     | [知乎陈随易](https://www.zhihu.com/people/chensuiyi)  |
-| 掘金     | [掘金陈随易](https://juejin.im/user/1239904846873326) |
-| 码云     | [码云陈随易](https://gitee.com/banshiweichen)         |
-| github   | [github 陈随易](https://github.com/chenbimo)          |
 
 ## 赞赏作者
 

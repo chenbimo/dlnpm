@@ -21,6 +21,7 @@ CHANGELOG.md
 .changeset
 others/softs
 other.md
+*lock*
 
 # Editor directories and files
 .vscode/*
